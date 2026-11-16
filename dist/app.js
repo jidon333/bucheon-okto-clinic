@@ -78,11 +78,6 @@ document.querySelector('.copy-address')?.addEventListener('click', async () => {
   catch { showToast('주소를 길게 누르거나 선택하여 복사해 주세요.'); }
 });
 
-const sourceDialog = document.querySelector('.sources-dialog');
-document.querySelector('.sources-button')?.addEventListener('click', () => sourceDialog?.showModal());
-sourceDialog?.querySelector('.dialog-close')?.addEventListener('click', () => sourceDialog.close());
-sourceDialog?.addEventListener('click', event => { if (event.target === sourceDialog) { const rect = sourceDialog.getBoundingClientRect(); if (event.clientX < rect.left || event.clientX > rect.right || event.clientY < rect.top || event.clientY > rect.bottom) sourceDialog.close(); } });
-
 const contactDialog = document.createElement('dialog');
 if (typeof contactDialog.showModal === 'function') {
   contactDialog.className = 'contact-dialog';
