@@ -1,0 +1,8190 @@
+{
+  "version": 1,
+  "updatedAt": "2026-11-16",
+  "guides": [
+    {
+      "id": "mokyang",
+      "name": "목양체질",
+      "hanja": "木陽",
+      "status": "reference",
+      "reviewedAt": null,
+      "source": "이레한의원",
+      "image": null,
+      "pdf": null,
+      "rows": [
+        {
+          "category": "동물성단백질",
+          "item": "쇠고기",
+          "guidance": "OO",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "돼지고기",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "닭고기/오리고기/개고기",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "염소고기(흑염소중탕)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "우유/유제품(온)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "우유/유제품(냉)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "버터",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "치즈",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "계란노른자",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "계란흰자",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "대부분의 바다생선",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "민물생선(장어/미꾸라지)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "조개류(패구류)",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "굴",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "새우/게/크랩(갑각류)",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "흰살 생선(명태/가자미/갈치/광어/대구/병어)",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "붉은살 생선(연어/고등어/참치/멸치/꽁치)",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "복어",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "콩",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "메주콩",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "완두콩/강남콩",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "팥",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "청국장",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "땅콩/아몬드/캐슈/일반Nuts",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "은행/호두/밤/잣",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "도토리",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "두부",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "잠두(Fava Beans)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "병아리콩(Chickpeas)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "쌀(백미)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "현미",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "찹쌀",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "보리",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "메밀",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "수수",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "메조",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "녹두",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "옥수수",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "밀가루",
+          "guidance": "OO",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "율무",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "숭늉/누룽지",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "귀리",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "호밀",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "오일",
+          "item": "들기름",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "오일",
+          "item": "참기름",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "오일",
+          "item": "콩기름",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "오일",
+          "item": "옥수수유",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "오일",
+          "item": "카놀라유",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "오일",
+          "item": "올리브유",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "오일",
+          "item": "포도씨유",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "뿌리채소(무/당근/연근/우엉 등)",
+          "guidance": "OO",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "감자/고구마",
+          "guidance": "OO",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "마",
+          "guidance": "OO",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "비트",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "생강",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "도라지/토란/더덕",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "순무(Turnip)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "설탕당근(Parsnip)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "푸른 잎 채소(배추/양배추/상추 등)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "고사리",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "오이",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "무청",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "시금치",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "취나물",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "미나리",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "깻잎",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "부추",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "페브리카",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "호박(늙은호박)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "호박(애호박)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "가지",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "토마토",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "아보카도",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "두릅",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "일반 버섯(송이/표고/느타리 등)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "적양배추(Red Cabbage)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "꽃상추(Endive)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "청경채(Bak Choy)",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "콜리플라워/꽃양배추(Cauliflower)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "고추(맵지 않은 고추)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "완두(Snap Peas)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "샐러리(Celery)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "허브 및 양념류",
+          "item": "고추(고춧가루/청고추)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "허브 및 양념류",
+          "item": "파/양파/생강/계피/겨자/후추/카레 등 열성향신료",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "허브 및 양념류",
+          "item": "마늘",
+          "guidance": "OO",
+          "note": ""
+        },
+        {
+          "category": "허브 및 양념류",
+          "item": "설탕",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "해조류",
+          "item": "미역/다시마",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "해조류",
+          "item": "김",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "사과",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "배",
+          "guidance": "OO",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "귤/오렌지/자몽/레몬/라임",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "망고",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "토마토",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "수박/메론",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "검정포도Campbell(한국포도)",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "청포도",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "참외/딸기/바나나/파인애플",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "키위",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "석류",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "파파야",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "블루베리",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "오디열매",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "감",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "복분자",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "복숭아/자두",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "체리/앵두/살구",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "크랜베리",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "코코넛",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "무화과",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "리치",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "딸기",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "약재류",
+          "item": "산삼/인삼(홍삼)",
+          "guidance": "O",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "녹용",
+          "guidance": "OO",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "꿀",
+          "guidance": "O",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "대추",
+          "guidance": "O",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "구기자",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "부자",
+          "guidance": "Δ",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "영지버섯",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "상황버섯",
+          "guidance": "O",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "모과",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "유자",
+          "guidance": "O",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "매실",
+          "guidance": "Δ",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "오미자",
+          "guidance": "O",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "산수유",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "칡",
+          "guidance": "OO",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "알로에",
+          "guidance": "XX",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "스쿠알렌",
+          "guidance": "O",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "비타민A D",
+          "guidance": "O",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "비타민C",
+          "guidance": "Δ",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "비타민B",
+          "guidance": "Δ",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "비타민E",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "포도당주사",
+          "guidance": "XX",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "포도당가루",
+          "guidance": "XX",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "음료",
+          "item": "카페인음료(커피/차/박카스)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "녹차",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "국화차",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "생강차",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "대추차",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "율무차",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "모과차",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "쌍화차",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "인삼차(홍삼차)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "찬물(음용)",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "더운물(음용)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "알칼리성 음료수",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "산성수",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "얼음",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "가공음료수",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "기호식품",
+          "item": "술",
+          "guidance": "XX",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "기호식품",
+          "item": "담배",
+          "guidance": "XX",
+          "note": "흡연은 건강에 해롭습니다."
+        },
+        {
+          "category": "기호식품",
+          "item": "코코아(초코렛)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "주류",
+          "item": "맥주",
+          "guidance": "X",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "주류",
+          "item": "위스키",
+          "guidance": "Δ",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "주류",
+          "item": "데킬라(Tequila)",
+          "guidance": "X",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "주류",
+          "item": "보드카",
+          "guidance": "Δ",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "주류",
+          "item": "와인",
+          "guidance": "X",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "주류",
+          "item": "막걸리",
+          "guidance": "X",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "주류",
+          "item": "정종/소주(곡주)",
+          "guidance": "X",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "주류",
+          "item": "소주(화학주)",
+          "guidance": "X",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "광물",
+          "item": "금/Gold(금니)",
+          "guidance": "O",
+          "note": "치과 시술 등의 판단 기준으로 사용하지 마세요."
+        },
+        {
+          "category": "광물",
+          "item": "은",
+          "guidance": "XX",
+          "note": "치과 시술 등의 판단 기준으로 사용하지 마세요."
+        },
+        {
+          "category": "광물",
+          "item": "옥",
+          "guidance": "O",
+          "note": "치과 시술 등의 판단 기준으로 사용하지 마세요."
+        },
+        {
+          "category": "활동",
+          "item": "수영(냉수욕)",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "활동",
+          "item": "사우나탕(發汗)",
+          "guidance": "OO",
+          "note": ""
+        },
+        {
+          "category": "활동",
+          "item": "들이마시기를 길게 하는 호흡",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "활동",
+          "item": "내쉬기를 길게 하는 호흡",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "활동",
+          "item": "일광욕",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "활동",
+          "item": "등산(자연林)",
+          "guidance": "O",
+          "note": ""
+        }
+      ],
+      "sourceUrl": "https://irehclinic.com/hepatotonia",
+      "importedAt": "2026-11-16",
+      "gradeScale": "five-level"
+    },
+    {
+      "id": "mokeum",
+      "name": "목음체질",
+      "hanja": "木陰",
+      "status": "reference",
+      "reviewedAt": null,
+      "source": "이레한의원",
+      "image": null,
+      "pdf": null,
+      "rows": [
+        {
+          "category": "동물성단백질",
+          "item": "쇠고기",
+          "guidance": "OO",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "돼지고기",
+          "guidance": "OO",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "닭고기/오리고기/개고기",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "염소고기(흑염소중탕)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "우유/유제품(온)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "우유/유제품(냉)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "버터",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "치즈",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "계란노른자",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "계란흰자",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "대부분의 바다생선",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "민물생선(장어/미꾸라지)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "조개류(패구류)",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "굴",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "새우/게/크랩(갑각류)",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "흰살 생선(명태/가자미/갈치/광어/대구/병어)",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "붉은살 생선(연어/고등어/참치/멸치/꽁치)",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "복어",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "콩",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "메주콩",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "완두콩/강남콩",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "팥",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "청국장",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "땅콩/아몬드/캐슈/일반Nuts",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "은행/호두/밤/잣",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "도토리",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "두부",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "잠두(Fava Beans)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "병아리콩(Chickpeas)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "쌀(백미)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "현미",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "찹쌀",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "보리",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "메밀",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "수수",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "메조",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "녹두",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "옥수수",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "밀가루",
+          "guidance": "OO",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "율무",
+          "guidance": "OO",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "숭늉/누룽지",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "귀리",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "호밀",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "오일",
+          "item": "들기름",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "오일",
+          "item": "참기름",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "오일",
+          "item": "콩기름",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "오일",
+          "item": "옥수수유",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "오일",
+          "item": "카놀라유",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "오일",
+          "item": "올리브유",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "오일",
+          "item": "포도씨유",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "뿌리채소(무/당근/연근/우엉 등)",
+          "guidance": "OO",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "감자/고구마",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "마",
+          "guidance": "OO",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "비트",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "생강",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "도라지/토란/더덕",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "순무(Turnip)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "설탕당근(Parsnip)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "푸른 잎 채소(배추/양배추/상추 등)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "고사리",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "오이",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "무청",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "시금치",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "취나물",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "미나리",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "깻잎",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "부추",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "페브리카",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "호박(늙은호박)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "호박(애호박)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "가지",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "토마토",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "아보카도",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "두릅",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "일반 버섯(송이/표고/느타리 등)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "적양배추(Red Cabbage)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "꽃상추(Endive)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "청경채(Bak Choy)",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "콜리플라워/꽃양배추(Cauliflower)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "고추(맵지 않은 고추)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "완두(Snap Peas)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "샐러리(Celery)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "허브 및 양념류",
+          "item": "고추(고춧가루/청고추)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "허브 및 양념류",
+          "item": "파/양파/생강/계피/겨자/후추/카레 등 열성향신료",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "허브 및 양념류",
+          "item": "마늘",
+          "guidance": "OO",
+          "note": ""
+        },
+        {
+          "category": "허브 및 양념류",
+          "item": "설탕",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "해조류",
+          "item": "미역/다시마",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "해조류",
+          "item": "김",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "사과",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "배",
+          "guidance": "OO",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "귤/오렌지/자몽/레몬/라임",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "망고",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "토마토",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "수박/메론",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "검정포도Campbell(한국포도)",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "청포도",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "참외/딸기/바나나/파인애플",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "키위",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "석류",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "파파야",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "블루베리",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "오디열매",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "감",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "복분자",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "복숭아/자두",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "체리/앵두/살구",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "크랜베리",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "코코넛",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "무화과",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "리치",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "딸기",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "약재류",
+          "item": "산삼/인삼(홍삼)",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "녹용",
+          "guidance": "OO",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "꿀",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "대추",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "구기자",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "부자",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "영지버섯",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "상황버섯",
+          "guidance": "O",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "모과",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "유자",
+          "guidance": "O",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "매실",
+          "guidance": "Δ",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "오미자",
+          "guidance": "OO",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "산수유",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "칡",
+          "guidance": "OO",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "알로에",
+          "guidance": "Δ",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "스쿠알렌",
+          "guidance": "O",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "비타민A D",
+          "guidance": "O",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "비타민C",
+          "guidance": "Δ",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "비타민B",
+          "guidance": "Δ",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "비타민E",
+          "guidance": "Δ",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "포도당주사",
+          "guidance": "XX",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "포도당가루",
+          "guidance": "XX",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "음료",
+          "item": "카페인음료(커피/차/박카스)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "녹차",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "국화차",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "생강차",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "대추차",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "율무차",
+          "guidance": "OO",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "모과차",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "쌍화차",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "인삼차(홍삼차)",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "찬물(음용)",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "더운물(음용)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "알칼리성 음료수",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "산성수",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "얼음",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "가공음료수",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "기호식품",
+          "item": "술",
+          "guidance": "XX",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "기호식품",
+          "item": "담배",
+          "guidance": "XX",
+          "note": "흡연은 건강에 해롭습니다."
+        },
+        {
+          "category": "기호식품",
+          "item": "코코아(초코렛)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "주류",
+          "item": "맥주",
+          "guidance": "X",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "주류",
+          "item": "위스키",
+          "guidance": "Δ",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "주류",
+          "item": "데킬라(Tequila)",
+          "guidance": "Δ",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "주류",
+          "item": "보드카",
+          "guidance": "Δ",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "주류",
+          "item": "와인",
+          "guidance": "X",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "주류",
+          "item": "막걸리",
+          "guidance": "X",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "주류",
+          "item": "정종/소주(곡주)",
+          "guidance": "X",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "주류",
+          "item": "소주(화학주)",
+          "guidance": "X",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "광물",
+          "item": "금/Gold(금니)",
+          "guidance": "O",
+          "note": "치과 시술 등의 판단 기준으로 사용하지 마세요."
+        },
+        {
+          "category": "광물",
+          "item": "은",
+          "guidance": "X",
+          "note": "치과 시술 등의 판단 기준으로 사용하지 마세요."
+        },
+        {
+          "category": "광물",
+          "item": "옥",
+          "guidance": "O",
+          "note": "치과 시술 등의 판단 기준으로 사용하지 마세요."
+        },
+        {
+          "category": "활동",
+          "item": "수영(냉수욕)",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "활동",
+          "item": "사우나탕(發汗)",
+          "guidance": "OO",
+          "note": ""
+        },
+        {
+          "category": "활동",
+          "item": "들이마시기를 길게 하는 호흡",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "활동",
+          "item": "내쉬기를 길게 하는 호흡",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "활동",
+          "item": "일광욕",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "활동",
+          "item": "등산(자연林)",
+          "guidance": "O",
+          "note": ""
+        }
+      ],
+      "sourceUrl": "https://irehclinic.com/cholecystotonia",
+      "importedAt": "2026-11-16",
+      "gradeScale": "five-level"
+    },
+    {
+      "id": "toyang",
+      "name": "토양체질",
+      "hanja": "土陽",
+      "status": "reference",
+      "reviewedAt": null,
+      "source": "이레한의원",
+      "image": null,
+      "pdf": null,
+      "rows": [
+        {
+          "category": "동물성단백질",
+          "item": "쇠고기",
+          "guidance": "OO",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "돼지고기",
+          "guidance": "OO",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "닭고기/오리고기/개고기",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "염소고기(흑염소중탕)",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "우유/유제품(온)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "우유/유제품(냉)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "버터",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "치즈",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "계란노른자",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "계란흰자",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "대부분의 바다생선",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "민물생선(장어/미꾸라지)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "조개류(패구류)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "굴",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "새우/게/크랩(갑각류)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "흰살 생선(명태/가자미/갈치/광어/대구/병어)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "붉은살 생선(연어/고등어/참치/멸치/꽁치)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "복어",
+          "guidance": "OO",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "콩",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "메주콩",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "완두콩/강남콩",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "팥",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "청국장",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "땅콩/아몬드/캐슈/일반Nuts",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "은행/호두/밤/잣",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "도토리",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "두부",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "잠두(Fava Beans)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "병아리콩(Chickpeas)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "쌀(백미)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "현미",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "찹쌀",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "보리",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "메밀",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "수수",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "메조",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "녹두",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "옥수수",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "밀가루",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "율무",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "숭늉/누룽지",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "귀리",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "호밀",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "오일",
+          "item": "들기름",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "오일",
+          "item": "참기름",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "오일",
+          "item": "콩기름",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "오일",
+          "item": "옥수수유",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "오일",
+          "item": "카놀라유",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "오일",
+          "item": "올리브유",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "오일",
+          "item": "포도씨유",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "뿌리채소(무/당근/연근/우엉 등)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "감자/고구마",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "마",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "비트",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "생강",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "도라지/토란/더덕",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "순무(Turnip)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "설탕당근(Parsnip)",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "푸른 잎 채소(배추/양배추/상추 등)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "고사리",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "오이",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "무청",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "시금치",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "취나물",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "미나리",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "깻잎",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "부추",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "페브리카",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "호박(늙은호박)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "호박(애호박)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "가지",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "토마토",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "아보카도",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "두릅",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "일반 버섯(송이/표고/느타리 등)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "적양배추(Red Cabbage)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "꽃상추(Endive)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "청경채(Bak Choy)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "콜리플라워/꽃양배추(Cauliflower)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "고추(맵지 않은 고추)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "완두(Snap Peas)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "샐러리(Celery)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "허브 및 양념류",
+          "item": "고추(고춧가루/청고추)",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "허브 및 양념류",
+          "item": "파/양파/생강/계피/겨자/후추/카레 등 열성향신료",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "허브 및 양념류",
+          "item": "마늘",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "허브 및 양념류",
+          "item": "설탕",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "해조류",
+          "item": "미역/다시마",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "해조류",
+          "item": "김",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "사과",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "배",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "귤/오렌지/자몽/레몬/라임",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "망고",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "토마토",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "수박/메론",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "검정포도Campbell(한국포도)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "청포도",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "참외/딸기/바나나/파인애플",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "키위",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "석류",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "파파야",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "블루베리",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "오디열매",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "감",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "복분자",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "복숭아/자두",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "체리/앵두/살구",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "크랜베리",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "코코넛",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "무화과",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "리치",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "딸기",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "약재류",
+          "item": "산삼/인삼(홍삼)",
+          "guidance": "XX",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "녹용",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "꿀",
+          "guidance": "XX",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "대추",
+          "guidance": "XX",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "구기자",
+          "guidance": "O",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "부자",
+          "guidance": "XX",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "영지버섯",
+          "guidance": "O",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "상황버섯",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "모과",
+          "guidance": "Δ",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "유자",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "매실",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "오미자",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "산수유",
+          "guidance": "OO",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "칡",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "알로에",
+          "guidance": "O",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "스쿠알렌",
+          "guidance": "Δ",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "비타민A D",
+          "guidance": "Δ",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "비타민C",
+          "guidance": "Δ",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "비타민B",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "비타민E",
+          "guidance": "OO",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "포도당주사",
+          "guidance": "O",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "포도당가루",
+          "guidance": "O",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "음료",
+          "item": "카페인음료(커피/차/박카스)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "녹차",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "국화차",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "생강차",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "대추차",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "율무차",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "모과차",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "쌍화차",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "인삼차(홍삼차)",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "찬물(음용)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "더운물(음용)",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "알칼리성 음료수",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "산성수",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "얼음",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "가공음료수",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "기호식품",
+          "item": "술",
+          "guidance": "XX",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "기호식품",
+          "item": "담배",
+          "guidance": "XX",
+          "note": "흡연은 건강에 해롭습니다."
+        },
+        {
+          "category": "기호식품",
+          "item": "코코아(초코렛)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "주류",
+          "item": "맥주",
+          "guidance": "Δ",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "주류",
+          "item": "위스키",
+          "guidance": "Δ",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "주류",
+          "item": "데킬라(Tequila)",
+          "guidance": "Δ",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "주류",
+          "item": "보드카",
+          "guidance": "Δ",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "주류",
+          "item": "와인",
+          "guidance": "Δ",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "주류",
+          "item": "막걸리",
+          "guidance": "Δ",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "주류",
+          "item": "정종/소주(곡주)",
+          "guidance": "X",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "주류",
+          "item": "소주(화학주)",
+          "guidance": "X",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "광물",
+          "item": "금/Gold(금니)",
+          "guidance": "O",
+          "note": "치과 시술 등의 판단 기준으로 사용하지 마세요."
+        },
+        {
+          "category": "광물",
+          "item": "은",
+          "guidance": "O",
+          "note": "치과 시술 등의 판단 기준으로 사용하지 마세요."
+        },
+        {
+          "category": "광물",
+          "item": "옥",
+          "guidance": "Δ",
+          "note": "치과 시술 등의 판단 기준으로 사용하지 마세요."
+        },
+        {
+          "category": "활동",
+          "item": "수영(냉수욕)",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "활동",
+          "item": "사우나탕(發汗)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "활동",
+          "item": "들이마시기를 길게 하는 호흡",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "활동",
+          "item": "내쉬기를 길게 하는 호흡",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "활동",
+          "item": "일광욕",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "활동",
+          "item": "등산(자연林)",
+          "guidance": "O",
+          "note": ""
+        }
+      ],
+      "sourceUrl": "https://irehclinic.com/pancreotonia",
+      "importedAt": "2026-11-16",
+      "gradeScale": "five-level"
+    },
+    {
+      "id": "toeum",
+      "name": "토음체질",
+      "hanja": "土陰",
+      "status": "reference",
+      "reviewedAt": null,
+      "source": "이레한의원",
+      "image": null,
+      "pdf": null,
+      "rows": [
+        {
+          "category": "동물성단백질",
+          "item": "쇠고기",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "돼지고기",
+          "guidance": "OO",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "닭고기/오리고기/개고기",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "염소고기(흑염소중탕)",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "우유/유제품(온)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "우유/유제품(냉)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "버터",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "치즈",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "계란노른자",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "계란흰자",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "대부분의 바다생선",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "민물생선(장어/미꾸라지)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "조개류(패구류)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "굴",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "새우/게/크랩(갑각류)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "흰살 생선(명태/가자미/갈치/광어/대구/병어)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "붉은살 생선(연어/고등어/참치/멸치/꽁치)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "복어",
+          "guidance": "OO",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "콩",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "메주콩",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "완두콩/강남콩",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "팥",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "청국장",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "땅콩/아몬드/캐슈/일반Nuts",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "은행/호두/밤/잣",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "도토리",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "두부",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "잠두(Fava Beans)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "병아리콩(Chickpeas)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "쌀(백미)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "현미",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "찹쌀",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "보리",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "메밀",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "수수",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "메조",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "녹두",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "옥수수",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "밀가루",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "율무",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "숭늉/누룽지",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "귀리",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "호밀",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "오일",
+          "item": "들기름",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "오일",
+          "item": "참기름",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "오일",
+          "item": "콩기름",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "오일",
+          "item": "옥수수유",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "오일",
+          "item": "카놀라유",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "오일",
+          "item": "올리브유",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "오일",
+          "item": "포도씨유",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "뿌리채소(무/당근/연근/우엉 등)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "감자/고구마",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "마",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "비트",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "생강",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "도라지/토란/더덕",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "순무(Turnip)",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "설탕당근(Parsnip)",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "푸른 잎 채소(배추/양배추/상추 등)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "고사리",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "오이",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "무청",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "시금치",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "취나물",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "미나리",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "깻잎",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "부추",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "페브리카",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "호박(늙은호박)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "호박(애호박)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "가지",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "토마토",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "아보카도",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "두릅",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "일반 버섯(송이/표고/느타리 등)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "적양배추(Red Cabbage)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "꽃상추(Endive)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "청경채(Bak Choy)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "콜리플라워/꽃양배추(Cauliflower)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "고추(맵지 않은 고추)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "완두(Snap Peas)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "샐러리(Celery)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "허브 및 양념류",
+          "item": "고추(고춧가루/청고추)",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "허브 및 양념류",
+          "item": "파/양파/생강/계피/겨자/후추/카레 등 열성향신료",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "허브 및 양념류",
+          "item": "마늘",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "허브 및 양념류",
+          "item": "설탕",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "해조류",
+          "item": "미역/다시마",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "해조류",
+          "item": "김",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "사과",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "배",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "귤/오렌지/자몽/레몬/라임",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "망고",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "토마토",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "수박/메론",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "검정포도Campbell(한국포도)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "청포도",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "참외/딸기/바나나/파인애플",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "키위",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "석류",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "파파야",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "블루베리",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "오디열매",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "감",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "복분자",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "복숭아/자두",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "체리/앵두/살구",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "크랜베리",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "코코넛",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "무화과",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "리치",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "딸기",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "약재류",
+          "item": "산삼/인삼(홍삼)",
+          "guidance": "XX",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "녹용",
+          "guidance": "XX",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "꿀",
+          "guidance": "XX",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "대추",
+          "guidance": "XX",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "구기자",
+          "guidance": "Δ",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "부자",
+          "guidance": "XX",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "영지버섯",
+          "guidance": "O",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "상황버섯",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "모과",
+          "guidance": "Δ",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "유자",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "매실",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "오미자",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "산수유",
+          "guidance": "O",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "칡",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "알로에",
+          "guidance": "O",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "스쿠알렌",
+          "guidance": "Δ",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "비타민A D",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "비타민C",
+          "guidance": "Δ",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "비타민B",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "비타민E",
+          "guidance": "O",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "포도당주사",
+          "guidance": "O",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "포도당가루",
+          "guidance": "O",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "음료",
+          "item": "카페인음료(커피/차/박카스)",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "녹차",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "국화차",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "생강차",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "대추차",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "율무차",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "모과차",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "쌍화차",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "인삼차(홍삼차)",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "찬물(음용)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "더운물(음용)",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "알칼리성 음료수",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "산성수",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "얼음",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "가공음료수",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "기호식품",
+          "item": "술",
+          "guidance": "XX",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "기호식품",
+          "item": "담배",
+          "guidance": "XX",
+          "note": "흡연은 건강에 해롭습니다."
+        },
+        {
+          "category": "기호식품",
+          "item": "코코아(초코렛)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "주류",
+          "item": "맥주",
+          "guidance": "Δ",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "주류",
+          "item": "위스키",
+          "guidance": "X",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "주류",
+          "item": "데킬라(Tequila)",
+          "guidance": "X",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "주류",
+          "item": "보드카",
+          "guidance": "X",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "주류",
+          "item": "와인",
+          "guidance": "Δ",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "주류",
+          "item": "막걸리",
+          "guidance": "X",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "주류",
+          "item": "정종/소주(곡주)",
+          "guidance": "X",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "주류",
+          "item": "소주(화학주)",
+          "guidance": "X",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "광물",
+          "item": "금/Gold(금니)",
+          "guidance": "Δ",
+          "note": "치과 시술 등의 판단 기준으로 사용하지 마세요."
+        },
+        {
+          "category": "광물",
+          "item": "은",
+          "guidance": "O",
+          "note": "치과 시술 등의 판단 기준으로 사용하지 마세요."
+        },
+        {
+          "category": "광물",
+          "item": "옥",
+          "guidance": "Δ",
+          "note": "치과 시술 등의 판단 기준으로 사용하지 마세요."
+        },
+        {
+          "category": "활동",
+          "item": "수영(냉수욕)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "활동",
+          "item": "사우나탕(發汗)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "활동",
+          "item": "들이마시기를 길게 하는 호흡",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "활동",
+          "item": "내쉬기를 길게 하는 호흡",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "활동",
+          "item": "일광욕",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "활동",
+          "item": "등산(자연林)",
+          "guidance": "Δ",
+          "note": ""
+        }
+      ],
+      "sourceUrl": "https://irehclinic.com/gastrotonia",
+      "importedAt": "2026-11-16",
+      "gradeScale": "five-level"
+    },
+    {
+      "id": "geumyang",
+      "name": "금양체질",
+      "hanja": "金陽",
+      "status": "reference",
+      "reviewedAt": null,
+      "source": "이레한의원",
+      "image": null,
+      "pdf": null,
+      "rows": [
+        {
+          "category": "동물성단백질",
+          "item": "쇠고기",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "돼지고기",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "닭고기/오리고기/개고기",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "염소고기(흑염소중탕)",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "우유/유제품(온)",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "우유/유제품(냉)",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "버터",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "치즈",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "계란노른자",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "계란흰자",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "대부분의 바다생선",
+          "guidance": "OO",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "민물생선(장어/미꾸라지)",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "조개류(패구류)",
+          "guidance": "OO",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "굴",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "새우/게/크랩(갑각류)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "흰살 생선(명태/가자미/갈치/광어/대구/병어)",
+          "guidance": "OO",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "붉은살 생선(연어/고등어/참치/멸치/꽁치)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "복어",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "콩",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "메주콩",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "완두콩/강남콩",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "팥",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "청국장",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "땅콩/아몬드/캐슈/일반Nuts",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "은행/호두/밤/잣",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "도토리",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "두부",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "잠두(Fava Beans)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "병아리콩(Chickpeas)",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "쌀(백미)",
+          "guidance": "OO",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "현미",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "찹쌀",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "보리",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "메밀",
+          "guidance": "OO",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "수수",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "메조",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "녹두",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "옥수수",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "밀가루",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "율무",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "숭늉/누룽지",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "귀리",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "호밀",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "오일",
+          "item": "들기름",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "오일",
+          "item": "참기름",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "오일",
+          "item": "콩기름",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "오일",
+          "item": "옥수수유",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "오일",
+          "item": "카놀라유",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "오일",
+          "item": "올리브유",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "오일",
+          "item": "포도씨유",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "뿌리채소(무/당근/연근/우엉 등)",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "감자/고구마",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "마",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "비트",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "생강",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "도라지/토란/더덕",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "순무(Turnip)",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "설탕당근(Parsnip)",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "푸른 잎 채소(배추/양배추/상추 등)",
+          "guidance": "OO",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "고사리",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "오이",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "무청",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "시금치",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "취나물",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "미나리",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "깻잎",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "부추",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "페브리카",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "호박(늙은호박)",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "호박(애호박)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "가지",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "토마토",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "아보카도",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "두릅",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "일반 버섯(송이/표고/느타리 등)",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "적양배추(Red Cabbage)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "꽃상추(Endive)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "청경채(Bak Choy)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "콜리플라워/꽃양배추(Cauliflower)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "고추(맵지 않은 고추)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "완두(Snap Peas)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "샐러리(Celery)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "허브 및 양념류",
+          "item": "고추(고춧가루/청고추)",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "허브 및 양념류",
+          "item": "파/양파/생강/계피/겨자/후추/카레 등 열성향신료",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "허브 및 양념류",
+          "item": "마늘",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "허브 및 양념류",
+          "item": "설탕",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "해조류",
+          "item": "미역/다시마",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "해조류",
+          "item": "김",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "사과",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "배",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "귤/오렌지/자몽/레몬/라임",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "망고",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "토마토",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "수박/메론",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "검정포도Campbell(한국포도)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "청포도",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "참외/딸기/바나나/파인애플",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "키위",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "석류",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "파파야",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "블루베리",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "오디열매",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "감",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "복분자",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "복숭아/자두",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "체리/앵두/살구",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "크랜베리",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "코코넛",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "무화과",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "리치",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "딸기",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "약재류",
+          "item": "산삼/인삼(홍삼)",
+          "guidance": "XX",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "녹용",
+          "guidance": "XX",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "꿀",
+          "guidance": "XX",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "대추",
+          "guidance": "XX",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "구기자",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "부자",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "영지버섯",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "상황버섯",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "모과",
+          "guidance": "O",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "유자",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "매실",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "오미자",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "산수유",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "칡",
+          "guidance": "XX",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "알로에",
+          "guidance": "O",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "스쿠알렌",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "비타민A D",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "비타민C",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "비타민B",
+          "guidance": "Δ",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "비타민E",
+          "guidance": "O",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "포도당주사",
+          "guidance": "OO",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "포도당가루",
+          "guidance": "OO",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "음료",
+          "item": "카페인음료(커피/차/박카스)",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "녹차",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "국화차",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "생강차",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "대추차",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "율무차",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "모과차",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "쌍화차",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "인삼차(홍삼차)",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "찬물(음용)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "더운물(음용)",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "알칼리성 음료수",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "산성수",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "얼음",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "가공음료수",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "기호식품",
+          "item": "술",
+          "guidance": "XX",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "기호식품",
+          "item": "담배",
+          "guidance": "XX",
+          "note": "흡연은 건강에 해롭습니다."
+        },
+        {
+          "category": "기호식품",
+          "item": "코코아(초코렛)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "주류",
+          "item": "맥주",
+          "guidance": "Δ",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "주류",
+          "item": "위스키",
+          "guidance": "X",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "주류",
+          "item": "데킬라(Tequila)",
+          "guidance": "X",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "주류",
+          "item": "보드카",
+          "guidance": "X",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "주류",
+          "item": "와인",
+          "guidance": "Δ",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "주류",
+          "item": "막걸리",
+          "guidance": "X",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "주류",
+          "item": "정종/소주(곡주)",
+          "guidance": "X",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "주류",
+          "item": "소주(화학주)",
+          "guidance": "X",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "광물",
+          "item": "금/Gold(금니)",
+          "guidance": "XX",
+          "note": "치과 시술 등의 판단 기준으로 사용하지 마세요."
+        },
+        {
+          "category": "광물",
+          "item": "은",
+          "guidance": "O",
+          "note": "치과 시술 등의 판단 기준으로 사용하지 마세요."
+        },
+        {
+          "category": "광물",
+          "item": "옥",
+          "guidance": "X",
+          "note": "치과 시술 등의 판단 기준으로 사용하지 마세요."
+        },
+        {
+          "category": "활동",
+          "item": "수영(냉수욕)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "활동",
+          "item": "사우나탕(發汗)",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "활동",
+          "item": "들이마시기를 길게 하는 호흡",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "활동",
+          "item": "내쉬기를 길게 하는 호흡",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "활동",
+          "item": "일광욕",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "활동",
+          "item": "등산(자연林)",
+          "guidance": "X",
+          "note": ""
+        }
+      ],
+      "sourceUrl": "https://irehclinic.com/pulmotonia",
+      "importedAt": "2026-11-16",
+      "gradeScale": "five-level"
+    },
+    {
+      "id": "geumeum",
+      "name": "금음체질",
+      "hanja": "金陰",
+      "status": "reference",
+      "reviewedAt": null,
+      "source": "이레한의원",
+      "image": null,
+      "pdf": null,
+      "rows": [
+        {
+          "category": "동물성단백질",
+          "item": "쇠고기",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "돼지고기",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "닭고기/오리고기/개고기",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "염소고기(흑염소중탕)",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "우유/유제품(온)",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "우유/유제품(냉)",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "버터",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "치즈",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "계란노른자",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "계란흰자",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "대부분의 바다생선",
+          "guidance": "OO",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "민물생선(장어/미꾸라지)",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "조개류(패구류)",
+          "guidance": "OO",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "굴",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "새우/게/크랩(갑각류)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "흰살 생선(명태/가자미/갈치/광어/대구/병어)",
+          "guidance": "OO",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "붉은살 생선(연어/고등어/참치/멸치/꽁치)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "복어",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "콩",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "메주콩",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "완두콩/강남콩",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "팥",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "청국장",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "땅콩/아몬드/캐슈/일반Nuts",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "은행/호두/밤/잣",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "도토리",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "두부",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "잠두(Fava Beans)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "병아리콩(Chickpeas)",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "쌀(백미)",
+          "guidance": "OO",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "현미",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "찹쌀",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "보리",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "메밀",
+          "guidance": "OO",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "수수",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "메조",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "녹두",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "옥수수",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "밀가루",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "율무",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "숭늉/누룽지",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "귀리",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "호밀",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "오일",
+          "item": "들기름",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "오일",
+          "item": "참기름",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "오일",
+          "item": "콩기름",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "오일",
+          "item": "옥수수유",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "오일",
+          "item": "카놀라유",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "오일",
+          "item": "올리브유",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "오일",
+          "item": "포도씨유",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "뿌리채소(무/당근/연근/우엉 등)",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "감자/고구마",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "마",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "비트",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "생강",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "도라지/토란/더덕",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "순무(Turnip)",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "설탕당근(Parsnip)",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "푸른 잎 채소(배추/양배추/상추 등)",
+          "guidance": "OO",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "고사리",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "오이",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "무청",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "시금치",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "취나물",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "미나리",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "깻잎",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "부추",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "페브리카",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "호박(늙은호박)",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "호박(애호박)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "가지",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "토마토",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "아보카도",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "두릅",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "일반 버섯(송이/표고/느타리 등)",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "적양배추(Red Cabbage)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "꽃상추(Endive)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "청경채(Bak Choy)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "콜리플라워/꽃양배추(Cauliflower)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "고추(맵지 않은 고추)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "완두(Snap Peas)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "샐러리(Celery)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "허브 및 양념류",
+          "item": "고추(고춧가루/청고추)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "허브 및 양념류",
+          "item": "파/양파/생강/계피/겨자/후추/카레 등 열성향신료",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "허브 및 양념류",
+          "item": "마늘",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "허브 및 양념류",
+          "item": "설탕",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "해조류",
+          "item": "미역/다시마",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "해조류",
+          "item": "김",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "사과",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "배",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "귤/오렌지/자몽/레몬/라임",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "망고",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "토마토",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "수박/메론",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "검정포도Campbell(한국포도)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "청포도",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "참외/딸기/바나나/파인애플",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "키위",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "석류",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "파파야",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "블루베리",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "오디열매",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "감",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "복분자",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "복숭아/자두",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "체리/앵두/살구",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "크랜베리",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "코코넛",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "무화과",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "리치",
+          "guidance": "",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "딸기",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "약재류",
+          "item": "산삼/인삼(홍삼)",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "녹용",
+          "guidance": "XX",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "꿀",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "대추",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "구기자",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "부자",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "영지버섯",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "상황버섯",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "모과",
+          "guidance": "O",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "유자",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "매실",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "오미자",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "산수유",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "칡",
+          "guidance": "XX",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "알로에",
+          "guidance": "Δ",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "스쿠알렌",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "비타민A D",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "비타민C",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "비타민B",
+          "guidance": "Δ",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "비타민E",
+          "guidance": "Δ",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "포도당주사",
+          "guidance": "OO",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "포도당가루",
+          "guidance": "OO",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "음료",
+          "item": "카페인음료(커피/차/박카스)",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "녹차",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "국화차",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "생강차",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "대추차",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "율무차",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "모과차",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "쌍화차",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "인삼차(홍삼차)",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "찬물(음용)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "더운물(음용)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "알칼리성 음료수",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "산성수",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "얼음",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "가공음료수",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "기호식품",
+          "item": "술",
+          "guidance": "XX",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "기호식품",
+          "item": "담배",
+          "guidance": "XX",
+          "note": "흡연은 건강에 해롭습니다."
+        },
+        {
+          "category": "기호식품",
+          "item": "코코아(초코렛)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "주류",
+          "item": "맥주",
+          "guidance": "Δ",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "주류",
+          "item": "위스키",
+          "guidance": "X",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "주류",
+          "item": "데킬라(Tequila)",
+          "guidance": "X",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "주류",
+          "item": "보드카",
+          "guidance": "X",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "주류",
+          "item": "와인",
+          "guidance": "Δ",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "주류",
+          "item": "막걸리",
+          "guidance": "X",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "주류",
+          "item": "정종/소주(곡주)",
+          "guidance": "Δ",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "주류",
+          "item": "소주(화학주)",
+          "guidance": "X",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "광물",
+          "item": "금/Gold(금니)",
+          "guidance": "XX",
+          "note": "치과 시술 등의 판단 기준으로 사용하지 마세요."
+        },
+        {
+          "category": "광물",
+          "item": "은",
+          "guidance": "X",
+          "note": "치과 시술 등의 판단 기준으로 사용하지 마세요."
+        },
+        {
+          "category": "광물",
+          "item": "옥",
+          "guidance": "X",
+          "note": "치과 시술 등의 판단 기준으로 사용하지 마세요."
+        },
+        {
+          "category": "활동",
+          "item": "수영(냉수욕)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "활동",
+          "item": "사우나탕(發汗)",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "활동",
+          "item": "들이마시기를 길게 하는 호흡",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "활동",
+          "item": "내쉬기를 길게 하는 호흡",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "활동",
+          "item": "일광욕",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "활동",
+          "item": "등산(자연林)",
+          "guidance": "X",
+          "note": ""
+        }
+      ],
+      "sourceUrl": "https://irehclinic.com/colonotonia",
+      "importedAt": "2026-11-16",
+      "gradeScale": "five-level"
+    },
+    {
+      "id": "suyang",
+      "name": "수양체질",
+      "hanja": "水陽",
+      "status": "reference",
+      "reviewedAt": null,
+      "source": "이레한의원",
+      "image": null,
+      "pdf": null,
+      "rows": [
+        {
+          "category": "동물성단백질",
+          "item": "쇠고기",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "돼지고기",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "닭고기/오리고기/개고기",
+          "guidance": "OO",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "염소고기(흑염소중탕)",
+          "guidance": "OO",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "우유/유제품(온)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "우유/유제품(냉)",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "버터",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "치즈",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "계란노른자",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "계란흰자",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "대부분의 바다생선",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "민물생선(장어/미꾸라지)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "조개류(패구류)",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "굴",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "새우/게/크랩(갑각류)",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "흰살 생선(명태/가자미/갈치/광어/대구/병어)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "붉은살 생선(연어/고등어/참치/멸치/꽁치)",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "복어",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "콩",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "메주콩",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "완두콩/강남콩",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "팥",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "청국장",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "땅콩/아몬드/캐슈/일반Nuts",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "은행/호두/밤/잣",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "도토리",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "두부",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "잠두(Fava Beans)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "병아리콩(Chickpeas)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "쌀(백미)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "현미",
+          "guidance": "OO",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "찹쌀",
+          "guidance": "OO",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "보리",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "메밀",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "수수",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "메조",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "녹두",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "옥수수",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "밀가루",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "율무",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "숭늉/누룽지",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "귀리",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "호밀",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "오일",
+          "item": "들기름",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "오일",
+          "item": "참기름",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "오일",
+          "item": "콩기름",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "오일",
+          "item": "옥수수유",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "오일",
+          "item": "카놀라유",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "오일",
+          "item": "올리브유",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "오일",
+          "item": "포도씨유",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "뿌리채소(무/당근/연근/우엉 등)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "감자/고구마",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "마",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "비트",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "생강",
+          "guidance": "OO",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "도라지/토란/더덕",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "순무(Turnip)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "설탕당근(Parsnip)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "푸른 잎 채소(배추/양배추/상추 등)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "고사리",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "오이",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "무청",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "시금치",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "취나물",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "미나리",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "깻잎",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "부추",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "페브리카",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "호박(늙은호박)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "호박(애호박)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "가지",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "토마토",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "아보카도",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "두릅",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "일반 버섯(송이/표고/느타리 등)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "적양배추(Red Cabbage)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "꽃상추(Endive)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "청경채(Bak Choy)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "콜리플라워/꽃양배추(Cauliflower)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "고추(맵지 않은 고추)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "완두(Snap Peas)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "샐러리(Celery)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "허브 및 양념류",
+          "item": "고추(고춧가루/청고추)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "허브 및 양념류",
+          "item": "파/양파/생강/계피/겨자/후추/카레 등 열성향신료",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "허브 및 양념류",
+          "item": "마늘",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "허브 및 양념류",
+          "item": "설탕",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "해조류",
+          "item": "미역/다시마",
+          "guidance": "OO",
+          "note": ""
+        },
+        {
+          "category": "해조류",
+          "item": "김",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "사과",
+          "guidance": "OO",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "배",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "귤/오렌지/자몽/레몬/라임",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "망고",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "토마토",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "수박/메론",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "검정포도Campbell(한국포도)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "청포도",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "참외/딸기/바나나/파인애플",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "키위",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "석류",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "파파야",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "블루베리",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "오디열매",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "감",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "복분자",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "복숭아/자두",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "체리/앵두/살구",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "크랜베리",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "코코넛",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "무화과",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "리치",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "딸기",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "약재류",
+          "item": "산삼/인삼(홍삼)",
+          "guidance": "OO",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "녹용",
+          "guidance": "Δ",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "꿀",
+          "guidance": "OO",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "대추",
+          "guidance": "OO",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "구기자",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "부자",
+          "guidance": "Δ",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "영지버섯",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "상황버섯",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "모과",
+          "guidance": "Δ",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "유자",
+          "guidance": "Δ",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "매실",
+          "guidance": "O",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "오미자",
+          "guidance": "Δ",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "산수유",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "칡",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "알로에",
+          "guidance": "XX",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "스쿠알렌",
+          "guidance": "Δ",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "비타민A D",
+          "guidance": "Δ",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "비타민C",
+          "guidance": "Δ",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "비타민B",
+          "guidance": "O",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "비타민E",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "포도당주사",
+          "guidance": "Δ",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "포도당가루",
+          "guidance": "Δ",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "음료",
+          "item": "카페인음료(커피/차/박카스)",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "녹차",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "국화차",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "생강차",
+          "guidance": "OO",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "대추차",
+          "guidance": "OO",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "율무차",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "모과차",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "쌍화차",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "인삼차(홍삼차)",
+          "guidance": "OO",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "찬물(음용)",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "더운물(음용)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "알칼리성 음료수",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "산성수",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "얼음",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "가공음료수",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "기호식품",
+          "item": "술",
+          "guidance": "XX",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "기호식품",
+          "item": "담배",
+          "guidance": "XX",
+          "note": "흡연은 건강에 해롭습니다."
+        },
+        {
+          "category": "기호식품",
+          "item": "코코아(초코렛)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "주류",
+          "item": "맥주",
+          "guidance": "X",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "주류",
+          "item": "위스키",
+          "guidance": "Δ",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "주류",
+          "item": "데킬라(Tequila)",
+          "guidance": "X",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "주류",
+          "item": "보드카",
+          "guidance": "Δ",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "주류",
+          "item": "와인",
+          "guidance": "Δ",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "주류",
+          "item": "막걸리",
+          "guidance": "X",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "주류",
+          "item": "정종/소주(곡주)",
+          "guidance": "Δ",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "주류",
+          "item": "소주(화학주)",
+          "guidance": "X",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "광물",
+          "item": "금/Gold(금니)",
+          "guidance": "Δ",
+          "note": "치과 시술 등의 판단 기준으로 사용하지 마세요."
+        },
+        {
+          "category": "광물",
+          "item": "은",
+          "guidance": "XX",
+          "note": "치과 시술 등의 판단 기준으로 사용하지 마세요."
+        },
+        {
+          "category": "광물",
+          "item": "옥",
+          "guidance": "Δ",
+          "note": "치과 시술 등의 판단 기준으로 사용하지 마세요."
+        },
+        {
+          "category": "활동",
+          "item": "수영(냉수욕)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "활동",
+          "item": "사우나탕(發汗)",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "활동",
+          "item": "들이마시기를 길게 하는 호흡",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "활동",
+          "item": "내쉬기를 길게 하는 호흡",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "활동",
+          "item": "일광욕",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "활동",
+          "item": "등산(자연林)",
+          "guidance": "Δ",
+          "note": ""
+        }
+      ],
+      "sourceUrl": "https://irehclinic.com/renotonia",
+      "importedAt": "2026-11-16",
+      "gradeScale": "five-level"
+    },
+    {
+      "id": "sueum",
+      "name": "수음체질",
+      "hanja": "水陰",
+      "status": "reference",
+      "reviewedAt": null,
+      "source": "이레한의원",
+      "image": null,
+      "pdf": null,
+      "rows": [
+        {
+          "category": "동물성단백질",
+          "item": "쇠고기",
+          "guidance": "OO",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "돼지고기",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "닭고기/오리고기/개고기",
+          "guidance": "OO",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "염소고기(흑염소중탕)",
+          "guidance": "OO",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "우유/유제품(온)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "우유/유제품(냉)",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "버터",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "치즈",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "계란노른자",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "계란흰자",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "대부분의 바다생선",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "민물생선(장어/미꾸라지)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "조개류(패구류)",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "굴",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "새우/게/크랩(갑각류)",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "흰살 생선(명태/가자미/갈치/광어/대구/병어)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "붉은살 생선(연어/고등어/참치/멸치/꽁치)",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "동물성단백질",
+          "item": "복어",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "콩",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "메주콩",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "완두콩/강남콩",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "팥",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "청국장",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "땅콩/아몬드/캐슈/일반Nuts",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "은행/호두/밤/잣",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "도토리",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "두부",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "잠두(Fava Beans)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "식물성단백질",
+          "item": "병아리콩(Chickpeas)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "쌀(백미)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "현미",
+          "guidance": "OO",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "찹쌀",
+          "guidance": "OO",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "보리",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "메밀",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "수수",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "메조",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "녹두",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "옥수수",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "밀가루",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "율무",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "숭늉/누룽지",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "귀리",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "탄수화물(곡류)",
+          "item": "호밀",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "오일",
+          "item": "들기름",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "오일",
+          "item": "참기름",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "오일",
+          "item": "콩기름",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "오일",
+          "item": "옥수수유",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "오일",
+          "item": "카놀라유",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "오일",
+          "item": "올리브유",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "오일",
+          "item": "포도씨유",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "뿌리채소(무/당근/연근/우엉 등)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "감자/고구마",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "마",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "비트",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "생강",
+          "guidance": "OO",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "도라지/토란/더덕",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "순무(Turnip)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "근채류(뿌리채소)",
+          "item": "설탕당근(Parsnip)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "푸른 잎 채소(배추/양배추/상추 등)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "고사리",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "오이",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "무청",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "시금치",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "취나물",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "미나리",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "깻잎",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "부추",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "페브리카",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "호박(늙은호박)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "호박(애호박)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "가지",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "토마토",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "아보카도",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "두릅",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "일반 버섯(송이/표고/느타리 등)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "적양배추(Red Cabbage)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "꽃상추(Endive)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "청경채(Bak Choy)",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "콜리플라워/꽃양배추(Cauliflower)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "고추(맵지 않은 고추)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "완두(Snap Peas)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "채소(잎/줄기채소)",
+          "item": "샐러리(Celery)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "허브 및 양념류",
+          "item": "고추(고춧가루/청고추)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "허브 및 양념류",
+          "item": "파/양파/생강/계피/겨자/후추/카레 등 열성향신료",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "허브 및 양념류",
+          "item": "마늘",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "허브 및 양념류",
+          "item": "설탕",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "해조류",
+          "item": "미역/다시마",
+          "guidance": "OO",
+          "note": ""
+        },
+        {
+          "category": "해조류",
+          "item": "김",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "사과",
+          "guidance": "OO",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "배",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "귤/오렌지/자몽/레몬/라임",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "망고",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "토마토",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "수박/메론",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "검정포도Campbell(한국포도)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "청포도",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "참외/딸기/바나나/파인애플",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "키위",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "석류",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "파파야",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "블루베리",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "오디열매",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "감",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "복분자",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "복숭아/자두",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "체리/앵두/살구",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "크랜베리",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "코코넛",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "무화과",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "리치",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "과일",
+          "item": "딸기",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "약재류",
+          "item": "산삼/인삼(홍삼)",
+          "guidance": "OO",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "녹용",
+          "guidance": "Δ",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "꿀",
+          "guidance": "OO",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "대추",
+          "guidance": "OO",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "구기자",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "부자",
+          "guidance": "Δ",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "영지버섯",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "상황버섯",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "모과",
+          "guidance": "Δ",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "유자",
+          "guidance": "Δ",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "매실",
+          "guidance": "O",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "오미자",
+          "guidance": "Δ",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "산수유",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "칡",
+          "guidance": "O",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "알로에",
+          "guidance": "XX",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "스쿠알렌",
+          "guidance": "Δ",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "비타민A D",
+          "guidance": "Δ",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "비타민C",
+          "guidance": "Δ",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "비타민B",
+          "guidance": "O",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "비타민E",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "포도당주사",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "약재류",
+          "item": "포도당가루",
+          "guidance": "X",
+          "note": "복용·변경 전 의료진 상담"
+        },
+        {
+          "category": "음료",
+          "item": "카페인음료(커피/차/박카스)",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "녹차",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "국화차",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "생강차",
+          "guidance": "OO",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "대추차",
+          "guidance": "OO",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "율무차",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "모과차",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "쌍화차",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "인삼차(홍삼차)",
+          "guidance": "OO",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "찬물(음용)",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "더운물(음용)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "알칼리성 음료수",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "산성수",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "얼음",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "음료",
+          "item": "가공음료수",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "기호식품",
+          "item": "술",
+          "guidance": "XX",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "기호식품",
+          "item": "담배",
+          "guidance": "XX",
+          "note": "흡연은 건강에 해롭습니다."
+        },
+        {
+          "category": "기호식품",
+          "item": "코코아(초코렛)",
+          "guidance": "Δ",
+          "note": ""
+        },
+        {
+          "category": "주류",
+          "item": "맥주",
+          "guidance": "X",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "주류",
+          "item": "위스키",
+          "guidance": "Δ",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "주류",
+          "item": "데킬라(Tequila)",
+          "guidance": "X",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "주류",
+          "item": "보드카",
+          "guidance": "Δ",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "주류",
+          "item": "와인",
+          "guidance": "X",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "주류",
+          "item": "막걸리",
+          "guidance": "X",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "주류",
+          "item": "정종/소주(곡주)",
+          "guidance": "Δ",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "주류",
+          "item": "소주(화학주)",
+          "guidance": "X",
+          "note": "음주를 권장하는 표기가 아닙니다."
+        },
+        {
+          "category": "광물",
+          "item": "금/Gold(금니)",
+          "guidance": "O",
+          "note": "치과 시술 등의 판단 기준으로 사용하지 마세요."
+        },
+        {
+          "category": "광물",
+          "item": "은",
+          "guidance": "XX",
+          "note": "치과 시술 등의 판단 기준으로 사용하지 마세요."
+        },
+        {
+          "category": "광물",
+          "item": "옥",
+          "guidance": "Δ",
+          "note": "치과 시술 등의 판단 기준으로 사용하지 마세요."
+        },
+        {
+          "category": "활동",
+          "item": "수영(냉수욕)",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "활동",
+          "item": "사우나탕(發汗)",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "활동",
+          "item": "들이마시기를 길게 하는 호흡",
+          "guidance": "O",
+          "note": ""
+        },
+        {
+          "category": "활동",
+          "item": "내쉬기를 길게 하는 호흡",
+          "guidance": "X",
+          "note": ""
+        },
+        {
+          "category": "활동",
+          "item": "일광욕",
+          "guidance": "XX",
+          "note": ""
+        },
+        {
+          "category": "활동",
+          "item": "등산(자연林)",
+          "guidance": "O",
+          "note": ""
+        }
+      ],
+      "sourceUrl": "https://irehclinic.com/vesicotonia",
+      "importedAt": "2026-11-16",
+      "gradeScale": "five-level"
+    }
+  ]
+}

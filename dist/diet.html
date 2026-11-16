@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#354b3c">
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="description" content="부천 옥토한의원 8체질 섭생표. 진료에서 안내받은 체질의 섭생 자료를 확인하세요.">
+  <title>8체질 섭생표 | 부천 옥토한의원</title>
+  <link rel="icon" href="assets/mark.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="assets/fonts/fonts.css">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="diet.css">
+  <script src="app.js" defer></script>
+  <script type="module" src="diet.js"></script>
+</head>
+<body class="diet-page">
+  <a class="skip-link" href="#main">본문 바로가기</a>
+  <header class="site-header" id="site-header">
+    <a class="brand" href="index.html#top" aria-label="옥토한의원 처음으로"><img src="assets/mark.svg" width="40" height="40" alt=""><span class="brand-name">부천 옥토한의원<small>OCTO KOREAN MEDICINE CLINIC</small></span></a>
+    <nav class="desktop-nav" aria-label="주요 메뉴"><a href="index.html#about">옥토 이야기</a><a href="index.html#care">8체질 진료</a><a href="diet.html" aria-current="page">8체질 섭생표</a><a href="index.html#first-visit">첫 방문 안내</a><a href="index.html#visit">오시는 길</a></nav>
+    <a class="header-contact" href="tel:0323228575"><span>전화 문의</span></a>
+    <button class="menu-toggle" type="button" aria-label="메뉴 열기" aria-controls="mobile-nav" aria-expanded="false"><span></span><span></span></button>
+  </header>
+  <nav class="mobile-nav" id="mobile-nav" aria-label="모바일 메뉴" hidden>
+    <a href="index.html#about">옥토 이야기 <span>01</span></a><a href="index.html#care">8체질 진료 <span>02</span></a><a href="diet.html" aria-current="page">8체질 섭생표 <span>03</span></a><a href="index.html#first-visit">첫 방문 안내 <span>04</span></a><a href="index.html#visit">오시는 길 <span>05</span></a><a class="mobile-nav-phone" href="tel:0323228575">032-322-8575 <span>전화 문의 ↗</span></a>
+  </nav>
+
+  <main id="main">
+    <section class="diet-intro section-shell" aria-labelledby="diet-title">
+      <div class="diet-breadcrumb"><a href="index.html">홈</a><span aria-hidden="true">/</span><span>8체질 섭생표</span></div>
+      <div class="diet-title-row"><div><p class="eyebrow">일상 속의 8체질 <span class="english-label">DAILY CARE</span></p><h1 id="diet-title">8체질 섭생표</h1><p class="diet-lead">내 몸을 알아가는 진료에서,<br>나에게 맞는 일상으로.</p></div><img class="diet-intro-mark" src="assets/mark.svg" width="120" height="120" alt=""></div>
+      <p class="diet-description">진료에서 안내받은 체질을 선택해 섭생 자료를 확인하세요.<br> 식생활과 생활습관은 개인의 몸 상태를 함께 살피며 조정합니다.</p>
+      <p class="reference-intro" id="reference-intro" hidden>내용 검토 중인 섭생표 시안입니다.<br>진료 시 받은 개별 안내를 우선해 주세요.</p>
+    </section>
+
+    <section class="diet-guide section-shell" aria-labelledby="selection-title">
+      <div class="diet-section-label"><h2 id="selection-title">나의 체질 선택</h2><span>진료에서 확인한 체질을 선택해 주세요.</span></div>
+      <div class="constitution-tabs" role="group" aria-label="체질 선택">
+        <button type="button" class="constitution-button" data-constitution="mokyang" aria-pressed="false"><span>목양</span><small>木陽</small></button>
+        <button type="button" class="constitution-button" data-constitution="mokeum" aria-pressed="false"><span>목음</span><small>木陰</small></button>
+        <button type="button" class="constitution-button" data-constitution="toyang" aria-pressed="false"><span>토양</span><small>土陽</small></button>
+        <button type="button" class="constitution-button" data-constitution="toeum" aria-pressed="false"><span>토음</span><small>土陰</small></button>
+        <button type="button" class="constitution-button" data-constitution="geumyang" aria-pressed="false"><span>금양</span><small>金陽</small></button>
+        <button type="button" class="constitution-button" data-constitution="geumeum" aria-pressed="false"><span>금음</span><small>金陰</small></button>
+        <button type="button" class="constitution-button" data-constitution="suyang" aria-pressed="false"><span>수양</span><small>水陽</small></button>
+        <button type="button" class="constitution-button" data-constitution="sueum" aria-pressed="false"><span>수음</span><small>水陰</small></button>
+      </div>
+
+      <section class="guide-sheet" aria-labelledby="guide-heading" aria-busy="true">
+        <div class="guide-sheet-heading"><div><p class="eyebrow">체질별 생활 안내</p><h2 id="guide-heading" aria-live="polite">체질별 섭생 자료</h2></div><p class="guide-update" id="guide-update" hidden></p></div>
+        <div class="guide-status" id="guide-status" role="status" aria-live="polite">
+          <span class="sheet-symbol" aria-hidden="true">八</span><h3>섭생 자료를 불러오고 있습니다.</h3>
+        </div>
+        <div class="guide-content" id="guide-content" hidden>
+          <p class="guide-origin" id="guide-origin"></p>
+          <div class="guide-legend" id="guide-legend" hidden><p>섭생 기준 안내</p><ul><li><b>OO</b> 반드시 필요</li><li><b>O</b> 유익</li><li><b>△</b> 자주 먹으면 해로움</li><li><b>X</b> 해로움</li><li><b>XX</b> 금함</li><li><b>—</b> 확인 필요</li></ul><p class="legend-note">개인의 상태와 진료 안내를 함께 살펴주세요. 약재·비타민·주사 등의 항목은 복용·중단 판단에 사용하지 말고 의료진과 상의하세요.</p></div>
+          <div class="guide-file-actions" id="guide-file-actions"></div>
+          <div class="guide-original" id="guide-original"></div>
+          <div class="guide-foods" id="guide-foods" hidden>
+            <div class="guide-filters"><div class="search-field"><label for="food-search">음식·항목 찾기</label><input type="search" id="food-search" placeholder="이름으로 찾아보세요" autocomplete="off"></div><div class="category-field"><label for="food-category">분류</label><select id="food-category"><option value="all">전체</option></select></div></div>
+            <p class="guide-result-count" id="guide-result-count" role="status" aria-live="polite"></p>
+            <div class="guide-table-wrap"><table class="guide-table" role="table"><caption id="guide-table-caption">체질별 섭생 안내</caption><thead role="rowgroup"><tr role="row"><th scope="col">분류</th><th scope="col">음식·항목</th><th scope="col" id="guidance-column">안내</th><th scope="col">참고사항</th></tr></thead><tbody id="guide-table-body" role="rowgroup"></tbody></table></div>
+            <nav class="guide-pagination" id="guide-pagination" aria-label="섭생표 페이지" hidden><button id="previous-page" type="button">← 이전</button><span id="page-label" role="status" aria-live="polite"></span><button id="next-page" type="button">다음 →</button></nav>
+            <div class="guide-no-results" id="guide-no-results" hidden><p>찾으시는 항목이 없습니다.</p><button type="button" id="reset-filters" class="text-link">검색과 분류 초기화 <span aria-hidden="true">↻</span></button></div>
+          </div>
+        </div>
+        <noscript><p class="no-script-note">체질 선택과 자료 조회에는 자바스크립트가 필요합니다. 섭생 자료는 <a href="tel:0323228575">032-322-8575</a>로 문의해 주세요.</p></noscript>
+      </section>
+      <p class="diet-caution">섭생표는 진료 상담을 돕는 자료입니다. 알레르기·질환·복용 중인 약은 담당 한의사와 함께 확인해 주세요.</p>
+    </section>
+
+    <section class="diet-reading section-shell" aria-labelledby="reading-title">
+      <div class="reading-heading"><p class="eyebrow">섭생표를 확인하기 전에</p><h2 id="reading-title">나의 진료 안내와<br>함께 읽어주세요.</h2></div>
+      <div class="reading-list"><article><span class="item-number">01</span><div><h3>진료에서 확인한 체질로</h3><p>온라인 정보만으로 체질을 판단하기보다, 진료에서 안내받은 체질을 기준으로 확인하세요.</p></div></article><article><span class="item-number">02</span><div><h3>나에게 안내된 내용을 먼저</h3><p>같은 체질이어도 몸의 상태에 따라 상담 내용이 달라질 수 있습니다. 진료 시 받은 개별 안내를 함께 살펴주세요.</p></div></article><article><span class="item-number">03</span><div><h3>궁금한 음식은 상담할 때</h3><p>표에 없는 음식이나 생활습관이 궁금하다면 다음 진료 때 함께 이야기해 주세요.</p></div></article></div>
+    </section>
+
+    <section class="diet-contact"><div class="section-shell"><div><p class="eyebrow">옥토한의원과 함께</p><h2>섭생표가 필요하거나,<br>확인하고 싶은 내용이 있나요?</h2></div><div class="diet-contact-actions"><a class="button button-primary" href="tel:0323228575">섭생 상담 문의 <span aria-hidden="true">↗</span></a><a class="text-link" href="index.html#visit">진료시간·오시는 길 <span aria-hidden="true">→</span></a></div></div></section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-top"><a class="brand" href="index.html"><img src="assets/mark.svg" width="42" height="42" alt=""><span class="brand-name">부천 옥토한의원<small>OCTO KOREAN MEDICINE CLINIC</small></span></a><p>나를 이해하는 진료, 내 몸에 맞는 일상.</p><a href="#main" class="back-top">맨 위로 <span aria-hidden="true">↑</span></a></div>
+    <div class="footer-bottom"><p>경기도 부천시 원미구 중동로254번길 104, 호정프라자 504호<br><a href="tel:0323228575">T. 032-322-8575</a></p><p>© 2026 OCTO. Website design preview.</p></div>
+    <div class="preview-note"><p>웹사이트 미리보기 · 섭생 안내는 개인별 진료 내용을 우선합니다.</p></div>
+  </footer>
+  <div class="mobile-contact-bar"><a href="index.html#visit">위치·방문 안내 <span aria-hidden="true">⌖</span></a><a href="tel:0323228575">전화 문의 <span aria-hidden="true">↗</span></a></div>
+</body>
+</html>

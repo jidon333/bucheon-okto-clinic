@@ -1,0 +1,35 @@
+# Publish only the application, portable checks and collaboration documentation.
+/*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/package.json
+!/server.mjs
+!/dist/
+!/scripts/
+!/tests/
+
+/scripts/*
+!/scripts/check.mjs
+!/scripts/diet-model.test.mjs
+!/scripts/prepare-assets.mjs
+
+# Original unused photos and private preview documents stay local.
+/dist/assets/forest.jpg
+/dist/assets/clinic-photo-2022.jpg
+/dist/assets/clinic-photo-2024.jpg
+/dist/assets/clinic-exterior.jpg
+/dist/handoff-preview.html
+
+# Never commit local accounts, credentials or generated tooling files.
+**/node_modules/
+**/.env
+**/.env.*
+**/*.local.env
+**/.wrangler/
+**/__pycache__/
+**/.DS_Store
+**/Thumbs.db
+**/*.log
+**/*.pem
+**/*.key
