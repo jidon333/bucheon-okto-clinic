@@ -80,5 +80,42 @@ document.querySelector('.copy-address')?.addEventListener('click', async () => {
 
 const sourceDialog = document.querySelector('.sources-dialog');
 document.querySelector('.sources-button')?.addEventListener('click', () => sourceDialog?.showModal());
-document.querySelector('.dialog-close')?.addEventListener('click', () => sourceDialog?.close());
+sourceDialog?.querySelector('.dialog-close')?.addEventListener('click', () => sourceDialog.close());
 sourceDialog?.addEventListener('click', event => { if (event.target === sourceDialog) { const rect = sourceDialog.getBoundingClientRect(); if (event.clientX < rect.left || event.clientX > rect.right || event.clientY < rect.top || event.clientY > rect.bottom) sourceDialog.close(); } });
+
+const contactDialog = document.querySelector('.contact-dialog');
+if (typeof contactDialog?.showModal === 'function') {
+  const copyStatus = contactDialog.querySelector('.contact-copy-status');
+  const phoneNumber = contactDialog.querySelector('.contact-number strong').textContent;
+  document.querySelectorAll('[data-contact-topic]').forEach(link => {
+    link.setAttribute('aria-haspopup', 'dialog');
+    link.addEventListener('click', event => {
+      if (event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
+      event.preventDefault();
+      contactDialog.querySelector('#contact-title').textContent = link.dataset.contactTopic;
+      copyStatus.textContent = '';
+      contactDialog.showModal();
+    });
+  });
+  contactDialog.querySelector('.contact-dialog-close').addEventListener('click', () => contactDialog.close());
+  contactDialog.addEventListener('click', event => {
+    if (event.target !== contactDialog) return;
+    const rect = contactDialog.getBoundingClientRect();
+    if (event.clientX < rect.left || event.clientX > rect.right || event.clientY < rect.top || event.clientY > rect.bottom) contactDialog.close();
+  });
+  contactDialog.querySelector('.copy-phone').addEventListener('click', async () => {
+    try {
+      await navigator.clipboard.writeText(phoneNumber);
+      copyStatus.textContent = '전화번호를 복사했습니다.';
+    } catch {
+      copyStatus.textContent = '위 전화번호를 길게 누르거나 선택하여 복사해 주세요.';
+    }
+  });
+  contactDialog.querySelector('.contact-visit-link').addEventListener('click', event => {
+    if (event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
+    contactDialog.close();
+    const visitTitle = document.querySelector('#visit-title');
+    visitTitle.setAttribute('tabindex', '-1');
+    visitTitle.focus({ preventScroll: true });
+  });
+}
