@@ -116,7 +116,7 @@ function selectGuide(id, updateUrl = false) {
   content.hidden = false;
   const isReference = selected.status === 'reference';
   const isGraded = isReference || selected.gradeScale === 'five-level';
-  update.textContent = isReference ? '내용 검토 중' : `자료 확인 · ${selected.reviewedAt.replaceAll('-', '.')}`;
+  update.textContent = isReference ? '진료 시 개별 안내 우선' : `자료 확인 · ${selected.reviewedAt.replaceAll('-', '.')}`;
   update.hidden = false;
   // Provenance stays in data/evidence for editing; not shown in the design.
   origin.replaceChildren();
