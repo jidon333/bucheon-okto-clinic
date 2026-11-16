@@ -49,7 +49,7 @@ npm run check
 1. 이 저장소를 **Fork(자신의 계정에 저장소 복사)** 합니다.
 2. 복사한 저장소를 자신의 컴퓨터로 내려받아 수정합니다.
 3. `npm run check`와 브라우저 확인을 마친 뒤 자신의 저장소에 올립니다.
-4. **Pull Request(변경 반영 요청)**를 원본 저장소에 보냅니다.
+4. 원본 저장소에 Pull Request(변경 반영 요청)를 보냅니다.
 5. 소유자가 변경 내용을 확인해 반영하고, 원하는 시점에 배포합니다.
 
 이 방식은 Cloudflare 계정이나 인증정보를 공유할 필요가 없습니다. 같은 저장소에서 직접 작업하려면 소유자가 한의사의 GitHub 계정을 협업자로 초대할 수 있습니다. 협업자 초대와 Cloudflare 배포 권한 부여는 별개입니다. [GitHub 권한 안내](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/repository-access-and-collaboration/permission-levels-for-a-personal-account-repository)
