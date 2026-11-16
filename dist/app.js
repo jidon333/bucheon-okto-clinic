@@ -83,21 +83,38 @@ document.querySelector('.sources-button')?.addEventListener('click', () => sourc
 sourceDialog?.querySelector('.dialog-close')?.addEventListener('click', () => sourceDialog.close());
 sourceDialog?.addEventListener('click', event => { if (event.target === sourceDialog) { const rect = sourceDialog.getBoundingClientRect(); if (event.clientX < rect.left || event.clientX > rect.right || event.clientY < rect.top || event.clientY > rect.bottom) sourceDialog.close(); } });
 
-const contactDialog = document.querySelector('.contact-dialog');
-if (typeof contactDialog?.showModal === 'function') {
+const contactDialog = document.createElement('dialog');
+if (typeof contactDialog.showModal === 'function') {
+  contactDialog.className = 'contact-dialog';
+  contactDialog.setAttribute('aria-labelledby', 'contact-title');
+  contactDialog.setAttribute('aria-describedby', 'contact-description');
+  contactDialog.innerHTML = `
+    <div class="dialog-heading"><h2 id="contact-title" tabindex="-1" autofocus>전화 · 예약 문의</h2><button type="button" class="dialog-close contact-dialog-close" aria-label="문의 안내 닫기">×</button></div>
+    <p id="contact-description">예약과 상담 문의는 전화로 안내해 드립니다.<br>궁금한 점과 원하시는 방문 일시를 말씀해 주세요.</p>
+    <div class="contact-number"><span>부천 옥토한의원</span><strong>032-322-8575</strong></div>
+    <div class="contact-dialog-actions"><a class="button button-primary" href="tel:0323228575">전화 걸기 <span aria-hidden="true">↗</span></a><button class="button copy-phone" type="button">번호 복사 <span aria-hidden="true">⧉</span></button></div>
+    <p class="contact-copy-status" role="status" aria-live="polite"></p>
+    <a class="text-link contact-visit-link" href="index.html#visit">진료시간 · 오시는 길 <span aria-hidden="true">→</span></a>`;
+  const visitLink = contactDialog.querySelector('.contact-visit-link');
+  if (document.querySelector('#visit')) visitLink.href = '#visit';
+  const inquirySelector = 'a[data-contact-topic], a[href="tel:0323228575"]';
+  document.querySelectorAll(inquirySelector).forEach(link => link.setAttribute('aria-haspopup', 'dialog'));
+  document.body.append(contactDialog);
   const copyStatus = contactDialog.querySelector('.contact-copy-status');
   const phoneNumber = contactDialog.querySelector('.contact-number strong').textContent;
-  document.querySelectorAll('[data-contact-topic]').forEach(link => {
-    link.setAttribute('aria-haspopup', 'dialog');
-    link.addEventListener('click', event => {
-      if (event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
-      event.preventDefault();
-      contactDialog.querySelector('#contact-title').textContent = link.dataset.contactTopic;
-      copyStatus.textContent = '';
-      contactDialog.showModal();
-    });
+  let returnFocus;
+  // Delegation also covers inquiry links rendered later by the dietary page.
+  document.addEventListener('click', event => {
+    const link = event.target.closest(inquirySelector);
+    if (!link || contactDialog.contains(link) || event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
+    event.preventDefault();
+    returnFocus = link.closest('.mobile-nav') ? toggle : link;
+    contactDialog.querySelector('#contact-title').textContent = link.dataset.contactTopic || '전화 · 예약 문의';
+    copyStatus.textContent = '';
+    contactDialog.showModal();
   });
   contactDialog.querySelector('.contact-dialog-close').addEventListener('click', () => contactDialog.close());
+  contactDialog.addEventListener('close', () => returnFocus?.focus({ preventScroll: true }));
   contactDialog.addEventListener('click', event => {
     if (event.target !== contactDialog) return;
     const rect = contactDialog.getBoundingClientRect();
@@ -111,11 +128,9 @@ if (typeof contactDialog?.showModal === 'function') {
       copyStatus.textContent = '위 전화번호를 길게 누르거나 선택하여 복사해 주세요.';
     }
   });
-  contactDialog.querySelector('.contact-visit-link').addEventListener('click', event => {
+  visitLink.addEventListener('click', event => {
     if (event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
+    returnFocus = null;
     contactDialog.close();
-    const visitTitle = document.querySelector('#visit-title');
-    visitTitle.setAttribute('tabindex', '-1');
-    visitTitle.focus({ preventScroll: true });
   });
 }

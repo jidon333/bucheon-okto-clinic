@@ -112,6 +112,6 @@ npm run check
 
 ### 이미지·폰트와 공개 범위
 
-공식 녹색 8자 심벌, 주차 안내도, 차 정물 이미지와 숲 사진을 사용합니다. 폰트는 Noto Sans KR·Noto Serif KR이며 라이선스는 `dist/assets/fonts/OFL-*.txt`에 포함되어 있습니다. 숲 사진은 [Joyce G / Unsplash](https://unsplash.com/photos/the-sun-shines-through-the-trees-in-the-forest-d4fo26jGvlw) 자료입니다. 첫 화면의 차 이미지는 실제 한의원 공간이 아닌 연출 이미지입니다.
+공식 녹색 8자 심벌, 네이버 지도 위치 안내, 차 정물 이미지와 숲 사진을 사용합니다. 위치 안내는 [옥토한의원 네이버 지도](https://map.naver.com/p/entry/place/1386605586) 화면을 저장한 `dist/assets/octo-naver-map.jpg` 위에 원을 표시합니다. 원의 위치와 크기는 `dist/styles.css`의 `.clinic-map-circle`에서 조정하며, 지도 이미지를 교체하면 위치도 함께 확인해야 합니다. 폰트는 Noto Sans KR·Noto Serif KR이며 라이선스는 `dist/assets/fonts/OFL-*.txt`에 포함되어 있습니다. 숲 사진은 [Joyce G / Unsplash](https://unsplash.com/photos/the-sun-shines-through-the-trees-in-the-forest-d4fo26jGvlw) 자료입니다. 첫 화면의 차 이미지는 실제 한의원 공간이 아닌 연출 이미지입니다.
 
 공개 저장소라는 사실이 제3자 자료나 브랜드의 권리를 변경하지는 않습니다. 로고·사진·외부 자료와 코드의 권리는 각각 구분합니다. 한의원 웹사이트 수정에 필요한 파일만 포함하며, 개인 계정 정보·디스코드 전송 도구·내부 작업 기록은 저장소에 포함하지 않습니다.
