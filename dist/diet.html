@@ -21,6 +21,42 @@
   <link rel="stylesheet" href="diet.css">
   <script src="app.js" defer></script>
   <script type="module" src="diet.js"></script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": "https://octohan.com/diet#webpage",
+        "url": "https://octohan.com/diet",
+        "name": "8체질 섭생표 | 부천 옥토한의원",
+        "description": "부천 옥토한의원에서 진료 시 안내받은 체질의 섭생 자료를 확인하는 페이지입니다. 진료 시 받은 개별 안내를 우선해 주세요.",
+        "inLanguage": "ko-KR",
+        "isPartOf": { "@id": "https://octohan.com/#website" },
+        "about": { "@id": "https://octohan.com/#clinic" },
+        "breadcrumb": { "@id": "https://octohan.com/diet#breadcrumb" }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://octohan.com/diet#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "홈",
+            "item": "https://octohan.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "8체질 섭생표",
+            "item": "https://octohan.com/diet"
+          }
+        ]
+      }
+    ]
+  }
+  </script>
 </head>
 <body class="diet-page">
   <a class="skip-link" href="#main">본문 바로가기</a>
